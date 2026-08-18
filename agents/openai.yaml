@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orka 可爱牛系图片生成"
+  short_description: "将动物主体与牛头套整体转为短密绒布偶质感并保留身份"
+  default_prompt: "使用 $orka-niulai-image 保留动物身份与场景，将动物主体和牛头套整体转为短密绒面、柔软填充及少量合理布偶接缝。"
