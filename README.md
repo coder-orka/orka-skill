@@ -2,6 +2,11 @@
 
 将人物、宠物、动物或物体照片转换为保留原主体特征的可爱牛系毛绒 3D 图片。
 
+## Skill
+
+- [打开 `orka-niulai-image` Skill 文件夹](./orka-niulai-image/)
+- [查看 `SKILL.md`](./orka-niulai-image/SKILL.md)
+
 默认特征：
 
 - 动物主体整体使用短密绒面、柔软填充和少量布偶接缝；
@@ -12,10 +17,11 @@
 
 ## 安装
 
-将仓库克隆到 Codex Skills 目录：
+克隆仓库，然后将独立 Skill 文件夹复制到 Codex Skills 目录：
 
 ```bash
-git clone https://github.com/coder-orka/orka-skill.git ~/.codex/skills/orka-niulai-image
+git clone https://github.com/coder-orka/orka-skill.git
+cp -R orka-skill/orka-niulai-image ~/.codex/skills/
 ```
 
 ## 使用
